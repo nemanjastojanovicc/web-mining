@@ -8127,3 +8127,328 @@ Hyundai Verna CRDi SX,2007,135000,119000,Diesel,Individual,Manual,Fourth & Above
 Maruti Swift Dzire ZDi,2009,382000,120000,Diesel,Individual,Manual,First Owner,19.3 kmpl,1248 CC,73.9 bhp,190Nm@ 2000rpm,5
 Tata Indigo CR4,2013,290000,25000,Diesel,Individual,Manual,First Owner,23.57 kmpl,1396 CC,70 bhp,140Nm@ 1800-3000rpm,5
 Tata Indigo CR4,2013,290000,25000,Diesel,Individual,Manual,First Owner,23.57 kmpl,1396 CC,70 bhp,140Nm@ 1800-3000rpm,5
+
+BMW M3 Sedan,2015,5200000,48000,Petrol,Individual,Automatic,Second Owner,10.8 kmpl,2979 CC,425 bhp,550Nm@ 1850-5500rpm,4
+BMW M3 Sedan,2017,5800000,36000,Petrol,Individual,Automatic,First Owner,10.8 kmpl,2979 CC,425 bhp,550Nm@ 1850-5500rpm,4
+BMW M4 Coupe,2016,6000000,42000,Petrol,Individual,Manual,Second Owner,10.2 kmpl,2979 CC,431 bhp,550Nm@ 1850-5500rpm,4
+BMW M2 Coupe,2018,5400000,30000,Petrol,Individual,Manual,First Owner,10.0 kmpl,2979 CC,365 bhp,465Nm@ 1400-5560rpm,4
+BMW M5,2014,6800000,65000,Petrol,Individual,Automatic,Second Owner,9.9 kmpl,4395 CC,560 bhp,680Nm@ 1500-5750rpm,5
+BMW M5 Competition,2019,9800000,22000,Petrol,Individual,Automatic,First Owner,9.5 kmpl,4395 CC,625 bhp,750Nm@ 1800-5800rpm,5
+BMW Z4 M40i,2020,6200000,18000,Petrol,Individual,Automatic,First Owner,11.2 kmpl,2998 CC,340 bhp,500Nm@ 1600-4500rpm,2
+Audi RS3,2018,5200000,26000,Petrol,Individual,Automatic,First Owner,10.4 kmpl,2480 CC,400 bhp,480Nm@ 1700-5850rpm,5
+Audi RS5,2015,4800000,39000,Petrol,Individual,Automatic,Second Owner,10.1 kmpl,2894 CC,450 bhp,600Nm@ 1900-5000rpm,4
+Audi RS7,2016,8200000,47000,Petrol,Individual,Automatic,Second Owner,9.8 kmpl,3993 CC,560 bhp,700Nm@ 1750-5500rpm,4
+Audi TT RS,2017,5600000,24000,Petrol,Individual,Automatic,First Owner,9.9 kmpl,2480 CC,400 bhp,480Nm@ 1700-5850rpm,4
+Audi R8 V10,2014,11800000,41000,Petrol,Individual,Automatic,Second Owner,6.8 kmpl,5204 CC,525 bhp,530Nm@ 6500rpm,2
+Mercedes-Benz C63 AMG,2014,4500000,62000,Petrol,Individual,Automatic,Second Owner,8.5 kmpl,6208 CC,457 bhp,600Nm@ 2000-5000rpm,4
+Mercedes-AMG C63 S,2018,7200000,32000,Petrol,Individual,Automatic,First Owner,9.0 kmpl,3982 CC,510 bhp,700Nm@ 1750-4500rpm,4
+Mercedes-AMG A45,2019,4900000,21000,Petrol,Individual,Automatic,First Owner,10.4 kmpl,1991 CC,381 bhp,475Nm@ 2250-5000rpm,5
+Mercedes-AMG GT,2017,9800000,29000,Petrol,Individual,Automatic,First Owner,8.6 kmpl,3982 CC,469 bhp,630Nm@ 1700-5000rpm,2
+Mercedes-AMG E63 S,2019,10500000,27000,Petrol,Individual,Automatic,First Owner,9.1 kmpl,3982 CC,603 bhp,850Nm@ 2500-4500rpm,5
+Ford Mustang GT,2016,4200000,38000,Petrol,Individual,Manual,Second Owner,7.9 kmpl,4951 CC,401 bhp,515Nm@ 4250rpm,4
+Ford Mustang GT,2019,5200000,24000,Petrol,Individual,Automatic,First Owner,8.0 kmpl,4951 CC,450 bhp,529Nm@ 4600rpm,4
+Chevrolet Camaro SS,2017,4400000,36000,Petrol,Individual,Manual,Second Owner,8.2 kmpl,6162 CC,455 bhp,617Nm@ 4400rpm,4
+Chevrolet Corvette Stingray,2015,7200000,41000,Petrol,Individual,Manual,Second Owner,7.5 kmpl,6162 CC,460 bhp,630Nm@ 4600rpm,2
+Porsche 911 Carrera,2016,7900000,34000,Petrol,Individual,Automatic,First Owner,9.0 kmpl,2981 CC,370 bhp,450Nm@ 1700-5000rpm,2
+Porsche 911 Carrera S,2018,9500000,26000,Petrol,Individual,Automatic,First Owner,8.9 kmpl,2981 CC,420 bhp,500Nm@ 1700-5000rpm,2
+Porsche Cayman S,2015,6400000,37000,Petrol,Individual,Manual,Second Owner,10.2 kmpl,3436 CC,325 bhp,370Nm@ 4500rpm,2
+Porsche Boxster GTS,2016,7000000,33000,Petrol,Individual,Manual,Second Owner,10.1 kmpl,3436 CC,330 bhp,370Nm@ 4500rpm,2
+Jaguar F-Type,2015,5800000,42000,Petrol,Individual,Automatic,Second Owner,9.4 kmpl,2995 CC,380 bhp,460Nm@ 3500rpm,2
+Jaguar F-Type R,2017,7600000,28000,Petrol,Individual,Automatic,First Owner,9.1 kmpl,5000 CC,550 bhp,680Nm@ 2500-5500rpm,2
+Nissan 370Z,2014,3200000,54000,Petrol,Individual,Manual,Second Owner,9.7 kmpl,3696 CC,332 bhp,363Nm@ 5200rpm,2
+Nissan GT-R,2013,9200000,46000,Petrol,Individual,Automatic,Second Owner,6.7 kmpl,3799 CC,485 bhp,588Nm@ 3200-5200rpm,4
+Toyota Supra GR,2020,6600000,16000,Petrol,Individual,Automatic,First Owner,11.0 kmpl,2998 CC,335 bhp,500Nm@ 1600-4500rpm,2
+Subaru WRX STI,2016,3500000,57000,Petrol,Individual,Manual,Second Owner,9.5 kmpl,2457 CC,305 bhp,393Nm@ 4000rpm,5
+Volkswagen Golf R,2018,3800000,33000,Petrol,Individual,Automatic,First Owner,10.7 kmpl,1984 CC,310 bhp,400Nm@ 2000-5400rpm,5
+Lexus RC F,2016,5200000,49000,Petrol,Individual,Automatic,Second Owner,8.6 kmpl,4969 CC,467 bhp,530Nm@ 4800rpm,4
+BMW M4 Competition,2020,9200000,21000,Petrol,Individual,Automatic,First Owner,9.7 kmpl,2979 CC,510 bhp,650Nm@ 2750-5500rpm,4
+BMW M3 Competition,2021,9600000,18000,Petrol,Individual,Automatic,First Owner,9.6 kmpl,2979 CC,510 bhp,650Nm@ 2750-5500rpm,4
+BMW M240i,2019,4200000,32000,Petrol,Individual,Automatic,Second Owner,11.0 kmpl,2998 CC,340 bhp,500Nm@ 1600-4500rpm,4
+BMW M8 Coupe,2020,13500000,24000,Petrol,Individual,Automatic,First Owner,9.2 kmpl,4395 CC,600 bhp,750Nm@ 1800-5600rpm,4
+Audi S5 Sportback,2019,5200000,29000,Petrol,Individual,Automatic,First Owner,10.2 kmpl,2995 CC,354 bhp,500Nm@ 1370-4500rpm,4
+Audi RS4 Avant,2018,6500000,41000,Petrol,Individual,Automatic,Second Owner,9.8 kmpl,2894 CC,450 bhp,600Nm@ 1900-5000rpm,5
+Audi RS6 Performance,2020,11500000,26000,Petrol,Individual,Automatic,First Owner,9.6 kmpl,3993 CC,605 bhp,750Nm@ 2100-5500rpm,5
+Audi S3,2017,3800000,45000,Petrol,Individual,Automatic,Second Owner,11.2 kmpl,1984 CC,306 bhp,400Nm@ 2000-5400rpm,5
+Mercedes-AMG CLA 45 S,2020,5600000,22000,Petrol,Individual,Automatic,First Owner,10.0 kmpl,1991 CC,421 bhp,500Nm@ 5000rpm,5
+Mercedes-AMG GLC 43 Coupe,2019,6200000,36000,Petrol,Individual,Automatic,Second Owner,9.3 kmpl,2996 CC,367 bhp,520Nm@ 2500-4500rpm,5
+Mercedes-AMG SL63,2015,7800000,52000,Petrol,Individual,Automatic,Second Owner,8.4 kmpl,5461 CC,537 bhp,800Nm@ 2000-4500rpm,2
+Mercedes-AMG S63 Coupe,2017,9800000,41000,Petrol,Individual,Automatic,Second Owner,8.8 kmpl,5461 CC,585 bhp,900Nm@ 2250-3750rpm,4
+Ford Mustang Mach 1,2021,7200000,15000,Petrol,Individual,Manual,First Owner,7.6 kmpl,4951 CC,480 bhp,569Nm@ 4600rpm,4
+Ford Mustang EcoBoost Performance,2019,3800000,34000,Petrol,Individual,Automatic,Second Owner,9.0 kmpl,2261 CC,310 bhp,475Nm@ 3000rpm,4
+Chevrolet Camaro ZL1,2018,8800000,28000,Petrol,Individual,Automatic,First Owner,7.3 kmpl,6162 CC,650 bhp,881Nm@ 3600rpm,4
+Chevrolet Corvette Z06,2017,9200000,35000,Petrol,Individual,Manual,Second Owner,6.9 kmpl,6162 CC,650 bhp,881Nm@ 3600rpm,2
+Porsche 718 Cayman GTS,2019,8200000,26000,Petrol,Individual,Manual,First Owner,10.7 kmpl,2497 CC,365 bhp,430Nm@ 1900-5000rpm,2
+Porsche 718 Boxster S,2018,7600000,31000,Petrol,Individual,Manual,Second Owner,10.5 kmpl,2497 CC,350 bhp,420Nm@ 1900-4500rpm,2
+Porsche 911 Turbo,2014,11000000,48000,Petrol,Individual,Automatic,Second Owner,8.6 kmpl,3800 CC,520 bhp,660Nm@ 2100-4250rpm,2
+Porsche Panamera Turbo,2015,9800000,56000,Petrol,Individual,Automatic,Second Owner,8.9 kmpl,4806 CC,520 bhp,700Nm@ 2250-4500rpm,4
+Jaguar XKR-S,2014,6400000,59000,Petrol,Individual,Automatic,Second Owner,8.2 kmpl,5000 CC,550 bhp,680Nm@ 2500-5500rpm,4
+Jaguar XE SV Project 8,2019,10500000,21000,Petrol,Individual,Automatic,First Owner,8.9 kmpl,5000 CC,600 bhp,700Nm@ 3500rpm,4
+Nissan Z Proto,2022,6200000,9000,Petrol,Individual,Manual,First Owner,10.0 kmpl,2997 CC,400 bhp,475Nm@ 1600-5600rpm,2
+Nissan GT-R Nismo,2018,12500000,24000,Petrol,Individual,Automatic,First Owner,6.5 kmpl,3799 CC,600 bhp,652Nm@ 3600-5600rpm,4
+Toyota GR Yaris,2021,3600000,18000,Petrol,Individual,Manual,First Owner,11.8 kmpl,1618 CC,261 bhp,360Nm@ 3000rpm,4
+Toyota Supra 3.0 Manual,2022,6900000,12000,Petrol,Individual,Manual,First Owner,10.8 kmpl,2998 CC,382 bhp,500Nm@ 1800-5000rpm,2
+Subaru BRZ,2022,3400000,14000,Petrol,Individual,Manual,First Owner,11.0 kmpl,2387 CC,228 bhp,250Nm@ 3700rpm,4
+Subaru WRX,2022,4200000,19000,Petrol,Individual,Manual,First Owner,10.2 kmpl,2387 CC,271 bhp,350Nm@ 3000rpm,5
+Volkswagen Arteon R,2021,5200000,23000,Petrol,Individual,Automatic,First Owner,10.3 kmpl,1984 CC,320 bhp,420Nm@ 2100-5350rpm,5
+Volkswagen Golf GTI Clubsport,2021,3900000,21000,Petrol,Individual,Automatic,First Owner,11.1 kmpl,1984 CC,300 bhp,400Nm@ 2000-5300rpm,5
+Lexus IS 500 F Sport,2022,6400000,16000,Petrol,Individual,Automatic,First Owner,8.9 kmpl,4969 CC,472 bhp,535Nm@ 4800rpm,5
+Lexus LC 500,2019,8200000,33000,Petrol,Individual,Automatic,Second Owner,8.7 kmpl,4969 CC,471 bhp,540Nm@ 4800rpm,4
+BMW M3 Touring,2022,9800000,14000,Petrol,Individual,Automatic,First Owner,9.5 kmpl,2993 CC,510 bhp,650Nm@ 2750-5500rpm,5
+BMW M4 CSL,2022,12500000,9000,Petrol,Individual,Automatic,First Owner,9.0 kmpl,2993 CC,543 bhp,650Nm@ 2750-5950rpm,4
+BMW M850i,2021,8800000,26000,Petrol,Individual,Automatic,Second Owner,9.8 kmpl,4395 CC,530 bhp,750Nm@ 1800-4600rpm,4
+BMW X3 M Competition,2020,8200000,32000,Petrol,Individual,Automatic,Second Owner,9.4 kmpl,2993 CC,510 bhp,650Nm@ 2750-5500rpm,5
+Audi RS Q8,2020,11500000,28000,Petrol,Individual,Automatic,First Owner,9.2 kmpl,3996 CC,600 bhp,800Nm@ 2200-4500rpm,5
+Audi RS e-tron GT,2022,13500000,12000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,590 bhp,830Nm@ 0rpm,4
+Audi RS5 Sportback,2019,6900000,35000,Petrol,Individual,Automatic,Second Owner,9.9 kmpl,2894 CC,450 bhp,600Nm@ 1900-5000rpm,4
+Audi S6,2020,6200000,42000,Petrol,Individual,Automatic,Second Owner,10.1 kmpl,2894 CC,450 bhp,600Nm@ 1900-5000rpm,5
+Mercedes-AMG GT 63 S 4-Door,2021,12500000,21000,Petrol,Individual,Automatic,First Owner,8.9 kmpl,3982 CC,639 bhp,900Nm@ 2500-4500rpm,4
+Mercedes-AMG C43,2019,5200000,38000,Petrol,Individual,Automatic,Second Owner,10.0 kmpl,2996 CC,390 bhp,520Nm@ 2500-5000rpm,4
+Mercedes-AMG GLA 45,2020,5600000,26000,Petrol,Individual,Automatic,First Owner,10.3 kmpl,1991 CC,387 bhp,480Nm@ 2250-5000rpm,5
+Mercedes-AMG EQS 53,2022,14500000,8000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,658 bhp,950Nm@ 0rpm,5
+Porsche Taycan GTS,2022,14000000,11000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,590 bhp,850Nm@ 0rpm,4
+Porsche 911 GTS,2021,11800000,23000,Petrol,Individual,Manual,Second Owner,8.7 kmpl,2981 CC,480 bhp,570Nm@ 2300-5000rpm,2
+Porsche 911 GT3,2019,13500000,19000,Petrol,Individual,Manual,Second Owner,7.8 kmpl,3996 CC,500 bhp,460Nm@ 6000rpm,2
+Porsche Macan GTS,2020,7600000,33000,Petrol,Individual,Automatic,Second Owner,9.6 kmpl,2894 CC,440 bhp,550Nm@ 1900-5600rpm,5
+Chevrolet Corvette C8,2021,9800000,15000,Petrol,Individual,Automatic,First Owner,7.6 kmpl,6162 CC,495 bhp,637Nm@ 5150rpm,2
+Chevrolet Camaro LT1,2020,5200000,27000,Petrol,Individual,Manual,Second Owner,8.4 kmpl,6162 CC,455 bhp,617Nm@ 4400rpm,4
+Ford Mustang Shelby GT350,2018,8200000,34000,Petrol,Individual,Manual,Second Owner,7.4 kmpl,5163 CC,526 bhp,582Nm@ 4750rpm,4
+Ford Mustang Dark Horse,2023,9200000,6000,Petrol,Individual,Manual,First Owner,7.5 kmpl,5038 CC,500 bhp,567Nm@ 4900rpm,4
+Jaguar F-Pace SVR,2020,8200000,31000,Petrol,Individual,Automatic,Second Owner,8.8 kmpl,5000 CC,550 bhp,700Nm@ 2500-5000rpm,5
+Jaguar F-Type P450,2022,8800000,14000,Petrol,Individual,Automatic,First Owner,9.0 kmpl,5000 CC,450 bhp,580Nm@ 2500-5000rpm,2
+Nissan Z Nismo,2024,7800000,5000,Petrol,Individual,Manual,First Owner,9.8 kmpl,2997 CC,420 bhp,520Nm@ 2000-5200rpm,2
+Nissan GT-R Track Edition,2019,11500000,29000,Petrol,Individual,Automatic,Second Owner,6.6 kmpl,3799 CC,570 bhp,637Nm@ 3200-5600rpm,4
+Toyota GR Corolla,2023,4200000,9000,Petrol,Individual,Manual,First Owner,11.5 kmpl,1618 CC,300 bhp,370Nm@ 3250rpm,5
+Toyota Supra A91,2021,7200000,18000,Petrol,Individual,Automatic,First Owner,10.6 kmpl,2998 CC,382 bhp,500Nm@ 1800-5000rpm,2
+Lexus IS 350 F Sport,2020,5200000,36000,Petrol,Individual,Automatic,Second Owner,9.4 kmpl,3456 CC,311 bhp,380Nm@ 4800rpm,5
+Lexus GS F,2018,6800000,42000,Petrol,Individual,Automatic,Second Owner,8.5 kmpl,4969 CC,467 bhp,530Nm@ 4800rpm,5
+Volkswagen T-Roc R,2021,4600000,24000,Petrol,Individual,Automatic,First Owner,10.4 kmpl,1984 CC,300 bhp,400Nm@ 2000-5400rpm,5
+Volkswagen Passat R-Line 2.0 TSI,2020,4200000,38000,Petrol,Individual,Automatic,Second Owner,11.0 kmpl,1984 CC,280 bhp,350Nm@ 1800-5600rpm,5
+Hyundai i30 N Performance,2021,3600000,26000,Petrol,Individual,Manual,Second Owner,11.4 kmpl,1998 CC,280 bhp,392Nm@ 2100-4700rpm,5
+Hyundai Elantra N,2022,3900000,19000,Petrol,Individual,Manual,First Owner,11.2 kmpl,1998 CC,276 bhp,392Nm@ 2100-4700rpm,5
+Kia Stinger GT,2019,5200000,41000,Petrol,Individual,Automatic,Second Owner,9.9 kmpl,3342 CC,365 bhp,510Nm@ 1300-4500rpm,5
+Alfa Romeo Giulia Quadrifoglio,2020,8200000,28000,Petrol,Individual,Automatic,First Owner,9.2 kmpl,2891 CC,510 bhp,600Nm@ 2500rpm,5
+Alfa Romeo Stelvio Quadrifoglio,2019,8400000,35000,Petrol,Individual,Automatic,Second Owner,9.0 kmpl,2891 CC,510 bhp,600Nm@ 2500rpm,5
+Maserati Ghibli Trofeo,2021,9800000,22000,Petrol,Individual,Automatic,First Owner,8.7 kmpl,3799 CC,580 bhp,730Nm@ 2250-5250rpm,5
+Maserati GranTurismo Sport,2018,7600000,48000,Petrol,Individual,Automatic,Second Owner,8.1 kmpl,4691 CC,460 bhp,520Nm@ 4750rpm,4
+Aston Martin Vantage,2019,12500000,26000,Petrol,Individual,Automatic,Second Owner,8.3 kmpl,3982 CC,510 bhp,685Nm@ 2000-5000rpm,2
+Aston Martin DB11 V8,2018,11800000,34000,Petrol,Individual,Automatic,Second Owner,8.6 kmpl,3982 CC,503 bhp,675Nm@ 2000-5000rpm,4
+McLaren 570S,2017,14500000,29000,Petrol,Individual,Automatic,Second Owner,7.9 kmpl,3799 CC,562 bhp,600Nm@ 5000rpm,2
+McLaren GT,2020,15500000,21000,Petrol,Individual,Automatic,First Owner,8.0 kmpl,3994 CC,612 bhp,630Nm@ 5500rpm,2
+Ferrari Portofino,2019,16500000,24000,Petrol,Individual,Automatic,Second Owner,8.2 kmpl,3855 CC,591 bhp,760Nm@ 3000-5250rpm,4
+Ferrari Roma,2021,17500000,16000,Petrol,Individual,Automatic,First Owner,8.4 kmpl,3855 CC,612 bhp,760Nm@ 3000-5750rpm,4
+Lamborghini Huracan EVO,2020,21500000,18000,Petrol,Individual,Automatic,First Owner,7.1 kmpl,5204 CC,640 bhp,600Nm@ 6500rpm,2
+Lamborghini Urus,2019,18500000,32000,Petrol,Individual,Automatic,Second Owner,7.8 kmpl,3996 CC,650 bhp,850Nm@ 2250-4500rpm,5
+BMW M2,2017,4800000,46000,Petrol,Individual,Manual,Second Owner,10.0 kmpl,2979 CC,370 bhp,465Nm@ 1400-5560rpm,4
+BMW M2 Competition,2019,6200000,28000,Petrol,Individual,Automatic,First Owner,9.8 kmpl,2979 CC,410 bhp,550Nm@ 2350-5200rpm,4
+BMW M4,2015,5600000,52000,Petrol,Individual,Manual,Second Owner,10.2 kmpl,2979 CC,431 bhp,550Nm@ 1850-5500rpm,4
+BMW M6 Gran Coupe,2016,7200000,61000,Petrol,Individual,Automatic,Second Owner,9.3 kmpl,4395 CC,560 bhp,680Nm@ 1500-5750rpm,4
+BMW X4 M,2020,7600000,34000,Petrol,Individual,Automatic,Second Owner,9.2 kmpl,2993 CC,480 bhp,600Nm@ 2600-5600rpm,5
+Audi RS3 Sportback,2019,5400000,24000,Petrol,Individual,Automatic,First Owner,10.4 kmpl,2480 CC,400 bhp,480Nm@ 1700-5850rpm,5
+Audi RS5 Coupe,2017,6200000,39000,Petrol,Individual,Automatic,Second Owner,9.9 kmpl,2894 CC,450 bhp,600Nm@ 1900-5000rpm,4
+Audi S7,2018,6500000,47000,Petrol,Individual,Automatic,Second Owner,9.7 kmpl,2894 CC,450 bhp,600Nm@ 1900-5000rpm,4
+Audi RS Q3,2020,5800000,26000,Petrol,Individual,Automatic,First Owner,10.1 kmpl,2480 CC,400 bhp,480Nm@ 1950-5850rpm,5
+Audi RS6 Avant,2019,9800000,38000,Petrol,Individual,Automatic,Second Owner,9.5 kmpl,3993 CC,591 bhp,800Nm@ 2100-4500rpm,5
+Mercedes-AMG C63 Coupe,2016,5200000,58000,Petrol,Individual,Automatic,Second Owner,8.7 kmpl,6208 CC,457 bhp,600Nm@ 2000-5000rpm,4
+Mercedes-AMG E53,2020,6800000,32000,Petrol,Individual,Automatic,First Owner,9.8 kmpl,2999 CC,429 bhp,520Nm@ 1800-5800rpm,5
+Mercedes-AMG GLE 63 S,2019,10500000,42000,Petrol,Individual,Automatic,Second Owner,8.6 kmpl,3982 CC,612 bhp,850Nm@ 2500-4500rpm,5
+Mercedes-AMG SL55,2022,11800000,14000,Petrol,Individual,Automatic,First Owner,8.9 kmpl,3982 CC,469 bhp,700Nm@ 1800-4500rpm,2
+Mercedes-AMG A35,2021,4200000,21000,Petrol,Individual,Automatic,First Owner,10.8 kmpl,1991 CC,306 bhp,400Nm@ 3000-4000rpm,5
+Ford Mustang Bullitt,2019,6200000,27000,Petrol,Individual,Manual,First Owner,7.8 kmpl,4951 CC,480 bhp,569Nm@ 4600rpm,4
+Ford Mustang GT Convertible,2018,5400000,39000,Petrol,Individual,Automatic,Second Owner,7.9 kmpl,4951 CC,401 bhp,515Nm@ 4250rpm,4
+Ford Mustang Mach-E GT,2021,7200000,19000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,480 bhp,860Nm@ 0rpm,5
+Chevrolet Camaro RS,2018,3600000,48000,Petrol,Individual,Manual,Second Owner,9.1 kmpl,1998 CC,275 bhp,400Nm@ 3000rpm,4
+Chevrolet Corvette Grand Sport,2017,8600000,36000,Petrol,Individual,Manual,Second Owner,7.3 kmpl,6162 CC,460 bhp,630Nm@ 4600rpm,2
+Porsche 718 Cayman,2018,5600000,42000,Petrol,Individual,Manual,Second Owner,10.8 kmpl,1988 CC,300 bhp,380Nm@ 1950-4500rpm,2
+Porsche 718 Boxster,2019,5800000,35000,Petrol,Individual,Manual,Second Owner,10.7 kmpl,1988 CC,300 bhp,380Nm@ 1950-4500rpm,2
+Porsche 911 Carrera 4,2017,8200000,44000,Petrol,Individual,Automatic,Second Owner,8.9 kmpl,2981 CC,370 bhp,450Nm@ 1700-5000rpm,2
+Porsche 911 Targa 4S,2018,9800000,31000,Petrol,Individual,Automatic,First Owner,8.7 kmpl,2981 CC,420 bhp,500Nm@ 1700-5000rpm,2
+Porsche Panamera 4S,2019,8600000,37000,Petrol,Individual,Automatic,Second Owner,9.2 kmpl,2894 CC,440 bhp,550Nm@ 1900-5600rpm,4
+Jaguar F-Type V6 S,2016,5200000,47000,Petrol,Individual,Automatic,Second Owner,9.3 kmpl,2995 CC,380 bhp,460Nm@ 3500rpm,2
+Jaguar XF S,2017,4800000,52000,Petrol,Individual,Automatic,Second Owner,9.5 kmpl,2995 CC,380 bhp,450Nm@ 3500rpm,5
+Jaguar I-Pace HSE,2020,6200000,26000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,394 bhp,696Nm@ 0rpm,5
+Nissan 370Z Nismo,2016,4200000,46000,Petrol,Individual,Manual,Second Owner,9.2 kmpl,3696 CC,350 bhp,374Nm@ 5200rpm,2
+Nissan GT-R Premium,2015,9800000,54000,Petrol,Individual,Automatic,Second Owner,6.6 kmpl,3799 CC,545 bhp,628Nm@ 3200-5600rpm,4
+Toyota GR86,2022,3200000,16000,Petrol,Individual,Manual,First Owner,11.0 kmpl,2387 CC,228 bhp,250Nm@ 3700rpm,4
+Toyota Camry TRD,2021,4200000,24000,Petrol,Individual,Automatic,First Owner,9.6 kmpl,3456 CC,301 bhp,362Nm@ 4700rpm,5
+Toyota Supra A90,2019,6400000,33000,Petrol,Individual,Automatic,Second Owner,10.5 kmpl,2998 CC,335 bhp,500Nm@ 1600-4500rpm,2
+Lexus RC 350 F Sport,2018,4600000,48000,Petrol,Individual,Automatic,Second Owner,9.2 kmpl,3456 CC,311 bhp,380Nm@ 4800rpm,4
+Lexus LS 500 F Sport,2019,7800000,39000,Petrol,Individual,Automatic,Second Owner,9.0 kmpl,3444 CC,416 bhp,600Nm@ 1600-4800rpm,5
+Volkswagen Golf R Variant,2020,4200000,31000,Petrol,Individual,Automatic,First Owner,10.5 kmpl,1984 CC,310 bhp,400Nm@ 2000-5400rpm,5
+Volkswagen Arteon Shooting Brake R,2022,5600000,19000,Petrol,Individual,Automatic,First Owner,10.2 kmpl,1984 CC,320 bhp,420Nm@ 2100-5350rpm,5
+Hyundai Kona N,2022,3800000,17000,Petrol,Individual,Automatic,First Owner,11.1 kmpl,1998 CC,280 bhp,392Nm@ 2100-4700rpm,5
+Hyundai Veloster N,2020,3400000,29000,Petrol,Individual,Manual,Second Owner,11.3 kmpl,1998 CC,275 bhp,353Nm@ 1450-4700rpm,4
+Kia EV6 GT,2022,5800000,15000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,576 bhp,740Nm@ 0rpm,5
+Kia Stinger GT Line,2020,4600000,37000,Petrol,Individual,Automatic,Second Owner,10.1 kmpl,1998 CC,255 bhp,353Nm@ 1400-4000rpm,5
+Alfa Romeo 4C,2017,7200000,26000,Petrol,Individual,Automatic,Second Owner,9.0 kmpl,1742 CC,237 bhp,350Nm@ 2100rpm,2
+Alfa Romeo Giulietta QV,2016,3600000,48000,Petrol,Individual,Manual,Second Owner,10.2 kmpl,1742 CC,240 bhp,340Nm@ 2000rpm,5
+Alfa Romeo Tonale Veloce,2023,4200000,9000,Petrol,Individual,Automatic,First Owner,11.4 kmpl,1995 CC,280 bhp,400Nm@ 2250rpm,5
+Maserati Levante Trofeo,2020,10800000,34000,Petrol,Individual,Automatic,Second Owner,8.4 kmpl,3799 CC,580 bhp,730Nm@ 2250-5250rpm,5
+Maserati Quattroporte GTS,2018,9200000,52000,Petrol,Individual,Automatic,Second Owner,8.2 kmpl,3799 CC,530 bhp,710Nm@ 2250-5250rpm,5
+Aston Martin Rapide S,2016,11800000,46000,Petrol,Individual,Automatic,Second Owner,7.8 kmpl,5935 CC,552 bhp,620Nm@ 5500rpm,4
+Aston Martin DBX,2020,13500000,31000,Petrol,Individual,Automatic,Second Owner,8.1 kmpl,3982 CC,550 bhp,700Nm@ 2200-5000rpm,5
+Bentley Continental GT V8,2019,16500000,42000,Petrol,Individual,Automatic,Second Owner,7.4 kmpl,3996 CC,542 bhp,770Nm@ 2000-4500rpm,4
+Bentley Flying Spur V8,2021,17500000,28000,Petrol,Individual,Automatic,First Owner,7.6 kmpl,3996 CC,542 bhp,770Nm@ 2000-4500rpm,5
+Rolls-Royce Wraith,2018,21500000,39000,Petrol,Individual,Automatic,Second Owner,6.2 kmpl,6592 CC,624 bhp,870Nm@ 1500rpm,4
+Rolls-Royce Ghost,2020,24500000,26000,Petrol,Individual,Automatic,First Owner,6.5 kmpl,6749 CC,563 bhp,850Nm@ 1600rpm,5
+BMW M3 CS,2020,10500000,22000,Petrol,Individual,Automatic,First Owner,9.3 kmpl,2993 CC,454 bhp,600Nm@ 1900-5000rpm,4
+BMW M5 CS,2022,13500000,16000,Petrol,Individual,Automatic,First Owner,9.1 kmpl,4395 CC,627 bhp,750Nm@ 1800-5950rpm,5
+BMW M440i Coupe,2021,5200000,31000,Petrol,Individual,Automatic,Second Owner,11.3 kmpl,2998 CC,374 bhp,500Nm@ 1600-4500rpm,4
+BMW i4 M50,2022,6200000,19000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,544 bhp,795Nm@ 0rpm,5
+Audi RS3 Sedan,2021,5900000,24000,Petrol,Individual,Automatic,First Owner,10.2 kmpl,2480 CC,401 bhp,500Nm@ 2250-5600rpm,5
+Audi RS5 Coupe,2020,7200000,33000,Petrol,Individual,Automatic,Second Owner,9.7 kmpl,2894 CC,450 bhp,600Nm@ 1900-5000rpm,4
+Audi RS7 Sportback,2019,9800000,38000,Petrol,Individual,Automatic,Second Owner,9.4 kmpl,3993 CC,591 bhp,800Nm@ 2050-4500rpm,4
+Audi S4,2018,4200000,47000,Petrol,Individual,Automatic,Second Owner,10.5 kmpl,2995 CC,354 bhp,500Nm@ 1370-4500rpm,5
+Mercedes-AMG C63 S Sedan,2017,6800000,54000,Petrol,Individual,Automatic,Second Owner,8.6 kmpl,3982 CC,510 bhp,700Nm@ 1750-4500rpm,4
+Mercedes-AMG E63,2018,8200000,46000,Petrol,Individual,Automatic,Second Owner,9.0 kmpl,3982 CC,571 bhp,750Nm@ 2500-4500rpm,5
+Mercedes-AMG SL43,2023,9800000,8000,Petrol,Individual,Automatic,First Owner,9.8 kmpl,1991 CC,381 bhp,480Nm@ 3250rpm,2
+Mercedes-AMG EQE 53,2022,11200000,12000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,617 bhp,950Nm@ 0rpm,5
+Ford Mustang GT Performance,2020,5800000,26000,Petrol,Individual,Manual,First Owner,7.7 kmpl,4951 CC,460 bhp,569Nm@ 4600rpm,4
+Ford Mustang Shelby GT500,2020,9800000,21000,Petrol,Individual,Automatic,First Owner,7.2 kmpl,5163 CC,760 bhp,847Nm@ 5000rpm,4
+Chevrolet Camaro SS 1LE,2019,5200000,34000,Petrol,Individual,Manual,Second Owner,8.1 kmpl,6162 CC,455 bhp,617Nm@ 4400rpm,4
+Chevrolet Corvette Stingray C7,2016,7600000,48000,Petrol,Individual,Manual,Second Owner,7.4 kmpl,6162 CC,460 bhp,630Nm@ 4600rpm,2
+Porsche 911 Carrera T,2020,9200000,28000,Petrol,Individual,Manual,Second Owner,8.8 kmpl,2981 CC,370 bhp,450Nm@ 1700-5000rpm,2
+Porsche 911 Turbo S,2019,14500000,22000,Petrol,Individual,Automatic,First Owner,8.2 kmpl,3800 CC,650 bhp,800Nm@ 2500-4000rpm,2
+Porsche Cayenne GTS,2021,9800000,36000,Petrol,Individual,Automatic,Second Owner,8.7 kmpl,3996 CC,460 bhp,620Nm@ 1800-4500rpm,5
+Porsche Panamera GTS,2020,9200000,41000,Petrol,Individual,Automatic,Second Owner,8.9 kmpl,3996 CC,480 bhp,620Nm@ 1800-4500rpm,4
+Jaguar F-Type P300,2021,6200000,23000,Petrol,Individual,Automatic,First Owner,10.1 kmpl,1997 CC,300 bhp,400Nm@ 1500-4500rpm,2
+Jaguar F-Type P575,2022,9800000,18000,Petrol,Individual,Automatic,First Owner,8.8 kmpl,5000 CC,575 bhp,700Nm@ 2500-5000rpm,2
+Nissan Z Performance,2023,5600000,9000,Petrol,Individual,Manual,First Owner,10.0 kmpl,2997 CC,400 bhp,475Nm@ 1600-5600rpm,2
+Nissan GT-R Black Edition,2017,11200000,38000,Petrol,Individual,Automatic,Second Owner,6.5 kmpl,3799 CC,565 bhp,633Nm@ 3300-5800rpm,4
+Toyota GR Supra 3.0 AT,2021,6900000,21000,Petrol,Individual,Automatic,First Owner,10.6 kmpl,2998 CC,382 bhp,500Nm@ 1800-5000rpm,2
+Toyota GR Corolla Circuit,2023,4500000,8000,Petrol,Individual,Manual,First Owner,11.4 kmpl,1618 CC,300 bhp,370Nm@ 3250rpm,5
+Subaru WRX STI S209,2019,5200000,34000,Petrol,Individual,Manual,Second Owner,9.2 kmpl,2457 CC,341 bhp,393Nm@ 4000rpm,5
+Subaru BRZ tS,2021,3600000,22000,Petrol,Individual,Manual,First Owner,11.1 kmpl,2387 CC,228 bhp,250Nm@ 3700rpm,4
+Volkswagen Golf R 20 Years,2022,4600000,15000,Petrol,Individual,Automatic,First Owner,10.3 kmpl,1984 CC,333 bhp,420Nm@ 2100-5350rpm,5
+Volkswagen Polo GTI,2021,3200000,27000,Petrol,Individual,Automatic,Second Owner,11.6 kmpl,1984 CC,207 bhp,320Nm@ 1500-4400rpm,5
+Hyundai i30 N Fastback,2020,3400000,39000,Petrol,Individual,Manual,Second Owner,11.2 kmpl,1998 CC,275 bhp,353Nm@ 1450-4700rpm,5
+Hyundai Sonata N Line,2021,3600000,26000,Petrol,Individual,Automatic,First Owner,10.9 kmpl,2497 CC,290 bhp,422Nm@ 1650-4000rpm,5
+Kia Stinger GT2,2021,5600000,28000,Petrol,Individual,Automatic,Second Owner,9.8 kmpl,3342 CC,368 bhp,510Nm@ 1300-4500rpm,5
+Alfa Romeo Giulia GTA,2021,11200000,17000,Petrol,Individual,Automatic,First Owner,8.9 kmpl,2891 CC,540 bhp,600Nm@ 2500rpm,5
+Alfa Romeo Stelvio Veloce,2022,5200000,14000,Petrol,Individual,Automatic,First Owner,10.2 kmpl,1995 CC,280 bhp,400Nm@ 2250rpm,5
+Maserati MC20,2021,18500000,12000,Petrol,Individual,Automatic,First Owner,7.9 kmpl,2992 CC,621 bhp,730Nm@ 3000-5500rpm,2
+Maserati Ghibli Modena,2022,7600000,21000,Petrol,Individual,Automatic,First Owner,9.1 kmpl,2992 CC,430 bhp,580Nm@ 2250-5250rpm,5
+Aston Martin V12 Vantage,2022,18500000,9000,Petrol,Individual,Manual,First Owner,7.2 kmpl,5204 CC,700 bhp,753Nm@ 1800rpm,2
+Aston Martin DBS Superleggera,2019,19500000,26000,Petrol,Individual,Automatic,Second Owner,7.5 kmpl,5204 CC,715 bhp,900Nm@ 1800-5000rpm,4
+Bentley Continental GT Speed,2021,21500000,24000,Petrol,Individual,Automatic,First Owner,7.1 kmpl,5998 CC,650 bhp,900Nm@ 1500-4500rpm,4
+Bentley Bentayga Speed,2020,22500000,38000,Petrol,Individual,Automatic,Second Owner,7.3 kmpl,5998 CC,626 bhp,900Nm@ 1500-4500rpm,5
+Ferrari F8 Tributo,2020,24500000,19000,Petrol,Individual,Automatic,First Owner,7.6 kmpl,3902 CC,710 bhp,770Nm@ 3250rpm,2
+Ferrari 488 GTB,2018,22500000,32000,Petrol,Individual,Automatic,Second Owner,7.8 kmpl,3902 CC,661 bhp,760Nm@ 3000rpm,2
+Lamborghini Aventador S,2018,28500000,29000,Petrol,Individual,Automatic,Second Owner,6.5 kmpl,6498 CC,740 bhp,690Nm@ 5500rpm,2
+Lamborghini Huracan Tecnica,2023,23500000,7000,Petrol,Individual,Automatic,First Owner,7.0 kmpl,5204 CC,640 bhp,565Nm@ 6500rpm,2
+McLaren 720S,2019,26500000,24000,Petrol,Individual,Automatic,Second Owner,7.4 kmpl,3994 CC,710 bhp,770Nm@ 5500rpm,2
+McLaren Artura,2023,27500000,6000,Petrol,Individual,Automatic,First Owner,8.1 kmpl,2993 CC,671 bhp,720Nm@ 2250rpm,2
+BMW M340i Sedan,2020,4600000,42000,Petrol,Individual,Automatic,Second Owner,11.5 kmpl,2998 CC,374 bhp,500Nm@ 1600-4500rpm,5
+BMW M440i Gran Coupe,2022,5600000,21000,Petrol,Individual,Automatic,First Owner,11.2 kmpl,2998 CC,374 bhp,500Nm@ 1600-4500rpm,5
+BMW M5 Competition,2018,7800000,52000,Petrol,Individual,Automatic,Second Owner,9.4 kmpl,4395 CC,625 bhp,750Nm@ 1800-5800rpm,5
+BMW X5 M,2017,8200000,68000,Petrol,Individual,Automatic,Second Owner,8.9 kmpl,4395 CC,575 bhp,750Nm@ 2200-5000rpm,5
+BMW iX M60,2023,12500000,9000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,610 bhp,1100Nm@ 0rpm,5
+Audi S5 Coupe,2018,4400000,48000,Petrol,Individual,Automatic,Second Owner,10.6 kmpl,2995 CC,354 bhp,500Nm@ 1370-4500rpm,4
+Audi RS Q5,2021,7200000,26000,Petrol,Individual,Automatic,First Owner,9.3 kmpl,2894 CC,444 bhp,600Nm@ 1900-5600rpm,5
+Audi RS e-tron GT Performance,2023,15500000,7000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,637 bhp,830Nm@ 0rpm,4
+Audi S8,2019,7600000,52000,Petrol,Individual,Automatic,Second Owner,9.5 kmpl,3996 CC,571 bhp,800Nm@ 2000-4500rpm,5
+Audi TT S,2017,3600000,46000,Petrol,Individual,Automatic,Second Owner,11.0 kmpl,1984 CC,310 bhp,400Nm@ 2000-5400rpm,4
+Mercedes-AMG C43 Coupe,2020,5400000,33000,Petrol,Individual,Automatic,First Owner,10.1 kmpl,2996 CC,390 bhp,520Nm@ 2500-5000rpm,4
+Mercedes-AMG E53 Coupe,2019,6800000,41000,Petrol,Individual,Automatic,Second Owner,9.6 kmpl,2999 CC,435 bhp,520Nm@ 1800-5800rpm,4
+Mercedes-AMG GT Roadster,2018,9800000,37000,Petrol,Individual,Automatic,Second Owner,8.3 kmpl,3982 CC,469 bhp,630Nm@ 1700-5000rpm,2
+Mercedes-AMG G63,2021,15500000,24000,Petrol,Individual,Automatic,First Owner,6.9 kmpl,3982 CC,577 bhp,850Nm@ 2500-3500rpm,5
+Mercedes-AMG S63 E Performance,2023,18500000,8000,Petrol,Individual,Automatic,First Owner,8.0 kmpl,3982 CC,791 bhp,1430Nm@ 0rpm,5
+Ford Mustang GT California Special,2021,6200000,24000,Petrol,Individual,Automatic,First Owner,7.8 kmpl,4951 CC,450 bhp,529Nm@ 4600rpm,4
+Ford Mustang Mach-E Rally,2023,7800000,6000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,480 bhp,860Nm@ 0rpm,5
+Ford Focus RS,2017,3800000,52000,Petrol,Individual,Manual,Second Owner,10.4 kmpl,2261 CC,350 bhp,470Nm@ 2000rpm,5
+Chevrolet Camaro Z28,2015,6200000,58000,Petrol,Individual,Manual,Second Owner,7.6 kmpl,7011 CC,505 bhp,650Nm@ 4200rpm,4
+Chevrolet Corvette ZR1,2019,14500000,22000,Petrol,Individual,Automatic,First Owner,6.9 kmpl,6162 CC,755 bhp,969Nm@ 4400rpm,2
+Porsche 718 Cayman GT4,2020,11200000,29000,Petrol,Individual,Manual,Second Owner,9.0 kmpl,3995 CC,420 bhp,420Nm@ 5000rpm,2
+Porsche 718 Spyder,2021,11800000,21000,Petrol,Individual,Manual,First Owner,8.9 kmpl,3995 CC,420 bhp,420Nm@ 5000rpm,2
+Porsche 911 Dakar,2023,16500000,6000,Petrol,Individual,Automatic,First Owner,8.1 kmpl,2981 CC,480 bhp,570Nm@ 2300-5000rpm,2
+Porsche Cayenne Turbo GT,2022,16500000,19000,Petrol,Individual,Automatic,First Owner,8.2 kmpl,3996 CC,640 bhp,850Nm@ 2300-4500rpm,5
+Porsche Macan Turbo,2019,6200000,44000,Petrol,Individual,Automatic,Second Owner,9.4 kmpl,2894 CC,440 bhp,550Nm@ 1900-5600rpm,5
+Jaguar F-Type R75,2022,9200000,16000,Petrol,Individual,Automatic,First Owner,8.9 kmpl,5000 CC,575 bhp,700Nm@ 2500-5000rpm,2
+Jaguar XJR575,2019,7600000,38000,Petrol,Individual,Automatic,Second Owner,8.3 kmpl,5000 CC,575 bhp,700Nm@ 2500-5000rpm,5
+Jaguar E-Pace P300,2021,4200000,26000,Petrol,Individual,Automatic,First Owner,10.5 kmpl,1997 CC,300 bhp,400Nm@ 1500-4500rpm,5
+Nissan Z Proto Spec,2022,5400000,14000,Petrol,Individual,Manual,First Owner,10.2 kmpl,2997 CC,400 bhp,475Nm@ 1600-5600rpm,2
+Nissan GT-R T-Spec,2021,13500000,21000,Petrol,Individual,Automatic,First Owner,6.4 kmpl,3799 CC,565 bhp,633Nm@ 3300-5800rpm,4
+Toyota GR Supra 2.0,2022,5200000,19000,Petrol,Individual,Automatic,First Owner,12.3 kmpl,1998 CC,258 bhp,400Nm@ 1550-4400rpm,2
+Toyota GRMN Yaris,2022,4800000,12000,Petrol,Individual,Manual,First Owner,11.6 kmpl,1618 CC,261 bhp,360Nm@ 3000rpm,5
+Toyota Crown Sport RS,2023,4600000,9000,Petrol,Individual,Automatic,First Owner,11.0 kmpl,2393 CC,349 bhp,500Nm@ 2000rpm,5
+Subaru Levorg STI Sport,2021,4200000,31000,Petrol,Individual,Automatic,Second Owner,10.6 kmpl,1795 CC,300 bhp,400Nm@ 2000rpm,5
+Subaru WRX GT,2022,4600000,21000,Petrol,Individual,Automatic,First Owner,10.0 kmpl,2387 CC,271 bhp,350Nm@ 3000rpm,5
+Volkswagen ID.4 GTX,2022,5200000,18000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,299 bhp,460Nm@ 0rpm,5
+Volkswagen Touareg R,2021,7600000,36000,Petrol,Individual,Automatic,Second Owner,9.0 kmpl,2995 CC,462 bhp,700Nm@ 1400rpm,5
+Volkswagen Scirocco R,2016,3200000,58000,Petrol,Individual,Manual,Second Owner,10.8 kmpl,1984 CC,280 bhp,350Nm@ 2500rpm,4
+Hyundai Ioniq 5 N,2023,5200000,12000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,641 bhp,740Nm@ 0rpm,5
+Hyundai Tucson N Line 2.5T,2022,4200000,21000,Petrol,Individual,Automatic,First Owner,10.1 kmpl,2497 CC,290 bhp,422Nm@ 1650-4000rpm,5
+Kia EV9 GT-Line,2023,6200000,9000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,384 bhp,700Nm@ 0rpm,6
+Kia K5 GT,2021,3800000,26000,Petrol,Individual,Automatic,First Owner,10.6 kmpl,2497 CC,290 bhp,422Nm@ 1650-4000rpm,5
+Alfa Romeo Giulia Veloce,2021,4800000,29000,Petrol,Individual,Automatic,First Owner,10.4 kmpl,1995 CC,280 bhp,400Nm@ 2250rpm,5
+Alfa Romeo 8C Competizione,2010,16500000,42000,Petrol,Individual,Manual,Second Owner,6.9 kmpl,4691 CC,450 bhp,470Nm@ 4750rpm,2
+Alfa Romeo Tonale PHEV Q4,2023,5600000,8000,Petrol,Individual,Automatic,First Owner,10.8 kmpl,1332 CC,280 bhp,400Nm@ 2000rpm,5
+Maserati Grecale Trofeo,2023,9800000,14000,Petrol,Individual,Automatic,First Owner,8.8 kmpl,2992 CC,530 bhp,620Nm@ 3000rpm,5
+Maserati GranCabrio Sport,2017,8200000,54000,Petrol,Individual,Automatic,Second Owner,7.9 kmpl,4691 CC,460 bhp,520Nm@ 4750rpm,4
+Aston Martin V8 Vantage Roadster,2020,13500000,26000,Petrol,Individual,Automatic,Second Owner,8.4 kmpl,3982 CC,503 bhp,685Nm@ 2000-5000rpm,2
+Aston Martin Valhalla,2024,32500000,4000,Petrol,Individual,Automatic,First Owner,7.5 kmpl,3982 CC,937 bhp,1000Nm@ 0rpm,2
+Bentley Continental GTC Speed,2022,23500000,19000,Petrol,Individual,Automatic,First Owner,7.0 kmpl,5998 CC,650 bhp,900Nm@ 1500-4500rpm,4
+Bentley Bentayga S,2021,19500000,34000,Petrol,Individual,Automatic,Second Owner,7.5 kmpl,3996 CC,542 bhp,770Nm@ 2000-4500rpm,5
+Ferrari SF90 Stradale,2021,36500000,14000,Petrol,Individual,Automatic,First Owner,6.8 kmpl,3990 CC,986 bhp,800Nm@ 3000rpm,2
+Ferrari 812 GTS,2020,32500000,26000,Petrol,Individual,Automatic,Second Owner,6.5 kmpl,6496 CC,789 bhp,718Nm@ 7000rpm,2
+Lamborghini Revuelto,2024,39500000,3000,Petrol,Individual,Automatic,First Owner,6.2 kmpl,6498 CC,1001 bhp,725Nm@ 6750rpm,2
+Lamborghini Huracan STO,2021,27500000,19000,Petrol,Individual,Automatic,First Owner,6.8 kmpl,5204 CC,640 bhp,565Nm@ 6500rpm,2
+McLaren 765LT,2021,34500000,16000,Petrol,Individual,Automatic,First Owner,7.1 kmpl,3994 CC,755 bhp,800Nm@ 5500rpm,2
+McLaren P1,2015,95000000,12000,Petrol,Individual,Automatic,Second Owner,6.5 kmpl,3799 CC,903 bhp,900Nm@ 0rpm,2
+BMW M135i xDrive,2021,4200000,28000,Petrol,Individual,Automatic,First Owner,11.4 kmpl,1998 CC,306 bhp,450Nm@ 1750-4500rpm,5
+BMW M235i Gran Coupe,2020,3800000,36000,Petrol,Individual,Automatic,Second Owner,11.2 kmpl,1998 CC,306 bhp,450Nm@ 1750-4500rpm,4
+BMW M550i xDrive,2019,6800000,52000,Petrol,Individual,Automatic,Second Owner,9.1 kmpl,4395 CC,530 bhp,750Nm@ 1800-4600rpm,5
+BMW X6 M Competition,2021,11200000,24000,Petrol,Individual,Automatic,First Owner,8.7 kmpl,4395 CC,625 bhp,750Nm@ 1800-5800rpm,5
+BMW i7 M70,2023,18500000,9000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,650 bhp,1015Nm@ 0rpm,5
+Audi RS3 Sportback Performance,2023,6500000,14000,Petrol,Individual,Automatic,First Owner,10.1 kmpl,2480 CC,407 bhp,500Nm@ 2250-5600rpm,5
+Audi RS5 Competition,2022,8200000,21000,Petrol,Individual,Automatic,First Owner,9.6 kmpl,2894 CC,450 bhp,600Nm@ 1900-5000rpm,4
+Audi RS7 Performance,2022,11800000,26000,Petrol,Individual,Automatic,First Owner,9.2 kmpl,3993 CC,630 bhp,850Nm@ 2250-4500rpm,4
+Audi S3 Sedan,2021,4200000,31000,Petrol,Individual,Automatic,Second Owner,11.3 kmpl,1984 CC,306 bhp,400Nm@ 2000-5400rpm,5
+Audi R8 V10 Performance,2019,15500000,29000,Petrol,Individual,Automatic,Second Owner,6.6 kmpl,5204 CC,620 bhp,580Nm@ 6500rpm,2
+Mercedes-AMG A45 S,2021,5400000,23000,Petrol,Individual,Automatic,First Owner,10.0 kmpl,1991 CC,421 bhp,500Nm@ 5000rpm,5
+Mercedes-AMG C63 Estate,2017,6200000,56000,Petrol,Individual,Automatic,Second Owner,8.5 kmpl,3982 CC,476 bhp,650Nm@ 1750-4500rpm,5
+Mercedes-AMG E63 Estate,2019,9200000,38000,Petrol,Individual,Automatic,First Owner,9.0 kmpl,3982 CC,612 bhp,850Nm@ 2500-4500rpm,5
+Mercedes-AMG SL63,2023,14500000,11000,Petrol,Individual,Automatic,First Owner,8.6 kmpl,3982 CC,585 bhp,800Nm@ 2500-4500rpm,2
+Mercedes-AMG EQE 43,2022,9200000,16000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,476 bhp,858Nm@ 0rpm,5
+Ford Mustang GT Premium,2018,5200000,44000,Petrol,Individual,Automatic,Second Owner,7.8 kmpl,4951 CC,401 bhp,515Nm@ 4250rpm,4
+Ford Mustang Shelby GT350R,2019,9200000,28000,Petrol,Individual,Manual,Second Owner,7.1 kmpl,5163 CC,526 bhp,582Nm@ 4750rpm,2
+Ford Focus ST Edition,2021,3200000,26000,Petrol,Individual,Manual,First Owner,11.1 kmpl,2261 CC,280 bhp,420Nm@ 3000rpm,5
+Chevrolet Camaro LT1 Coupe,2021,4800000,29000,Petrol,Individual,Manual,First Owner,8.3 kmpl,6162 CC,455 bhp,617Nm@ 4400rpm,4
+Chevrolet Corvette E-Ray,2024,16500000,4000,Petrol,Individual,Automatic,First Owner,6.8 kmpl,6162 CC,655 bhp,800Nm@ 0rpm,2
+Porsche 911 Carrera S Cabriolet,2019,9800000,36000,Petrol,Individual,Automatic,Second Owner,8.7 kmpl,2981 CC,420 bhp,500Nm@ 1700-5000rpm,2
+Porsche 911 GT3 Touring,2022,15500000,14000,Petrol,Individual,Manual,First Owner,7.7 kmpl,3996 CC,510 bhp,470Nm@ 6100rpm,2
+Porsche Taycan Turbo,2021,12500000,22000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,616 bhp,850Nm@ 0rpm,4
+Porsche Cayenne S Coupe,2020,8200000,41000,Petrol,Individual,Automatic,Second Owner,9.0 kmpl,2894 CC,440 bhp,550Nm@ 1800-5500rpm,5
+Porsche Macan T,2022,5600000,19000,Petrol,Individual,Automatic,First Owner,10.4 kmpl,1984 CC,265 bhp,400Nm@ 1800-4500rpm,5
+Jaguar F-Type R AWD,2020,8600000,32000,Petrol,Individual,Automatic,Second Owner,8.9 kmpl,5000 CC,575 bhp,700Nm@ 2500-5000rpm,2
+Jaguar XKR Convertible,2015,5200000,64000,Petrol,Individual,Automatic,Second Owner,8.1 kmpl,5000 CC,510 bhp,625Nm@ 2500rpm,2
+Jaguar XE P300,2021,4200000,28000,Petrol,Individual,Automatic,First Owner,10.6 kmpl,1997 CC,300 bhp,400Nm@ 1500-4500rpm,5
+Nissan Z Heritage Edition,2023,5800000,8000,Petrol,Individual,Manual,First Owner,10.1 kmpl,2997 CC,400 bhp,475Nm@ 1600-5600rpm,2
+Nissan GT-R Nismo Special,2020,18500000,21000,Petrol,Individual,Automatic,First Owner,6.3 kmpl,3799 CC,600 bhp,652Nm@ 3600-5600rpm,4
+Toyota GR Supra Track Edition,2022,7200000,18000,Petrol,Individual,Automatic,First Owner,10.4 kmpl,2998 CC,382 bhp,500Nm@ 1800-5000rpm,2
+Toyota GR86 Cup,2023,3500000,12000,Petrol,Individual,Manual,First Owner,11.2 kmpl,2387 CC,235 bhp,250Nm@ 3700rpm,2
+Toyota Corolla GR Sport Turbo,2021,3800000,26000,Petrol,Individual,Automatic,First Owner,11.0 kmpl,1618 CC,261 bhp,360Nm@ 3000rpm,5
+Subaru Impreza WRX STI Final,2018,4800000,52000,Petrol,Individual,Manual,Second Owner,9.3 kmpl,2457 CC,305 bhp,393Nm@ 4000rpm,5
+Subaru BRZ Limited,2020,3200000,34000,Petrol,Individual,Manual,Second Owner,11.1 kmpl,1998 CC,205 bhp,212Nm@ 6400rpm,4
+Subaru Levorg GT-H,2022,4200000,21000,Petrol,Individual,Automatic,First Owner,10.8 kmpl,1795 CC,275 bhp,375Nm@ 2000rpm,5
+Volkswagen Golf GTI TCR,2020,3600000,31000,Petrol,Individual,Automatic,Second Owner,11.2 kmpl,1984 CC,290 bhp,380Nm@ 2000-5200rpm,5
+Volkswagen Arteon R Performance,2023,6200000,14000,Petrol,Individual,Automatic,First Owner,10.1 kmpl,1984 CC,320 bhp,420Nm@ 2100-5350rpm,5
+Volkswagen ID.7 GTX,2024,6800000,6000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,340 bhp,545Nm@ 0rpm,5
+Hyundai Elantra N Performance,2023,4200000,16000,Petrol,Individual,Manual,First Owner,11.0 kmpl,1998 CC,286 bhp,392Nm@ 2100-4700rpm,5
+Hyundai Ioniq 6 N,2024,6200000,5000,Petrol,Individual,Automatic,First Owner,0 kmpl,0 CC,650 bhp,740Nm@ 0rpm,5
+Kia Stinger Tribute Edition,2023,6200000,12000,Petrol,Individual,Automatic,First Owner,9.7 kmpl,3342 CC,368 bhp,510Nm@ 1300-4500rpm,5
+Kia Forte GT Turbo,2021,2800000,33000,Petrol,Individual,Automatic,Second Owner,11.8 kmpl,1591 CC,201 bhp,265Nm@ 1500rpm,5
+Alfa Romeo Giulia Sprint GTA,2020,9800000,24000,Petrol,Individual,Automatic,Second Owner,8.8 kmpl,2891 CC,540 bhp,600Nm@ 2500rpm,5
+Alfa Romeo Stelvio Q4,2021,4600000,31000,Petrol,Individual,Automatic,First Owner,10.1 kmpl,1995 CC,280 bhp,400Nm@ 2250rpm,5
+Alfa Romeo Brera V6 Q4,2010,3600000,78000,Petrol,Individual,Manual,Second Owner,8.9 kmpl,3195 CC,260 bhp,322Nm@ 4500rpm,4
+Maserati Quattroporte Trofeo,2022,13500000,19000,Petrol,Individual,Automatic,First Owner,8.0 kmpl,3799 CC,580 bhp,730Nm@ 2250-5250rpm,5
+Maserati MC20 Cielo,2023,19500000,7000,Petrol,Individual,Automatic,First Owner,7.7 kmpl,2992 CC,621 bhp,730Nm@ 3000-5500rpm,2
+Aston Martin DB12,2024,22500000,4000,Petrol,Individual,Automatic,First Owner,7.6 kmpl,3982 CC,671 bhp,800Nm@ 2750rpm,4
+Aston Martin Vanquish,2017,18500000,36000,Petrol,Individual,Automatic,Second Owner,7.4 kmpl,5935 CC,568 bhp,630Nm@ 5500rpm,2
+Bentley Continental GT Mulliner,2022,24500000,21000,Petrol,Individual,Automatic,First Owner,7.0 kmpl,5998 CC,650 bhp,900Nm@ 1500-4500rpm,4
+Bentley Flying Spur Speed,2022,25500000,18000,Petrol,Individual,Automatic,First Owner,7.1 kmpl,5998 CC,626 bhp,900Nm@ 1500-4500rpm,5
+Ferrari 296 GTB,2023,34500000,9000,Petrol,Individual,Automatic,First Owner,7.9 kmpl,2992 CC,819 bhp,740Nm@ 6250rpm,2
+Ferrari Purosangue,2023,36500000,7000,Petrol,Individual,Automatic,First Owner,6.9 kmpl,6496 CC,715 bhp,716Nm@ 6250rpm,4
+Lamborghini Diablo VT,2001,18500000,62000,Petrol,Individual,Manual,Second Owner,5.8 kmpl,5992 CC,529 bhp,605Nm@ 5500rpm,2
+Lamborghini Gallardo LP560-4,2012,16500000,54000,Petrol,Individual,Automatic,Second Owner,6.6 kmpl,5204 CC,552 bhp,540Nm@ 6500rpm,2
+McLaren 675LT,2016,29500000,28000,Petrol,Individual,Automatic,Second Owner,7.2 kmpl,3799 CC,666 bhp,700Nm@ 5500rpm,2
+McLaren Speedtail,2020,125000000,8000,Petrol,Individual,Automatic,First Owner,6.0 kmpl,3994 CC,1035 bhp,1150Nm@ 0rpm,2
